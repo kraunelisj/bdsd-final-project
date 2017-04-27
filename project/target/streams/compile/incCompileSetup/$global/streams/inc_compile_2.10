@@ -1,0 +1,267 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+20 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$1$$anonfun$2.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$1.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$1.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$2.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$3.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$4.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$dependencySettings$1.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$1.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$2.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$3.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$4.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$5.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$6.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$7.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$1.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$2.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$3.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$4.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class
+binary dependencies:
+11 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.11.2.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /home/jkraunelis/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$1$$anonfun$2
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$assemblyProjSettings$1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$assemblyProjSettings$2
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$assemblyProjSettings$3
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$assemblyProjSettings$4
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$dependencySettings$1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$2
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$3
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$4
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$5
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$6
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$projSettings$7
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$project$1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$project$2
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$project$3
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild$$anonfun$project$4
+used names:
+106 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> !=
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> $p1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> %
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> %%
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> &&
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> +
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> ++
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> ++=
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> +=
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> :=
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> <init>
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> ==
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> >=
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> AList
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Any
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Append
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> AssemblyKeys
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> AssemblyUtils
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Build
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Def
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Defaults
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Error
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> FullInstance
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Function1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> InitializeInstance
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> InputWrapper
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Keys
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Level
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MergeStrategy
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> MyBuild
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Nil
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Nothing
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> PathList
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Plugin
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Predef
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Project
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Seq
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> Setting
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> String
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> _1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> _2
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> _root_
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> app
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> append1
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> appendN
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> appendSeq
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> apply
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> asInstanceOf
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> assembly
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> assemblyProjSettings
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> assemblySettings
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> at
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> canBuildFrom
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> collection
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> concat
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> conflictRobustMergeStrategy
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> defaultSettings
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> dependencySettings
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> discard
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> drop
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> endsWith
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> file
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> filterDistinctLines
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> first
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> get
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> immutable
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> in
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> isEmpty
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> isInstanceOf
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> jarName
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> javacOptions
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> last
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> lengthCompare
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> libraryDependencies
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> logLevel
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> macroValueI
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> map
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> mergeStrategy
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> moduleIDConfigurable
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> name
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> organization
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> package
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> projSettings
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> project
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> pure
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> resolvers
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> sbt
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> sbtassembly
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> scala
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> scalaVersion
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> scalacOptions
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> set
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> settings
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> test
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> toGroupID
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> toITask
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> toLowerCase
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> toRepositoryName
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> tuple2
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> unapplySeq
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> unary_!
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> value
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> version
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> wrapInit_☃☃
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> xs
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> ||
+product stamps:
+20 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$1$$anonfun$2.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$1.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$1.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$2.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$3.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$assemblyProjSettings$4.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$dependencySettings$1.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$1.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$2.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$3.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$4.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$5.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$6.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$projSettings$7.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$1.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$2.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$3.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$project$4.class -> lastModified(1492478495000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class -> lastModified(1492478494000)
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class -> lastModified(1492478494000)
+source stamps:
+1 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> hash(a29d85d6de44726b9e087436c83dcad2ee121b35)
+binary stamps:
+11 items
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar -> lastModified(1439253124000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> lastModified(1439253119000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar -> lastModified(1439253183000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.9.jar -> lastModified(1439253150000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> lastModified(1439253272000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> lastModified(1439253285000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> lastModified(1439253291000)
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar -> lastModified(1439253204000)
+/home/jkraunelis/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.11.2.jar -> lastModified(1395262337000)
+/home/jkraunelis/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425520576000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1479481236000)
+class names:
+11 items
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> sbt.LinePosition$
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar -> sbt.impl.GroupID
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.9.jar -> sbt.Level$
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> sbt.Append$
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> sbt.Build
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> sbt.package$
+/home/jkraunelis/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar -> sbt.Task
+/home/jkraunelis/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.11.2.jar -> sbtassembly.Plugin$
+/home/jkraunelis/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.collection.SeqLike
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDgP5mNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLGE/F90AAZub3RpZnlzcQB+AAxE/ekFdAAEd2FpdHNxAH4ADAEn1nZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrWMKcXQAFGFzc2VtYmx5UHJvalNldHRpbmdzc3EAfgAMPeom9HQADGJ1aWxkTG9hZGVyc3NxAH4ADE9VSCd0AAZlcXVhbHNzcQB+AAwuBpEidAAHcHJvamVjdHNxAH4ADJudWZp0AAxhc0luc3RhbmNlT2ZzcQB+AAx/3Ho5dAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMfkrS63QAEmRlcGVuZGVuY3lTZXR0aW5nc3NxAH4ADPQtYsd0AAxzeW5jaHJvbml6ZWRzcQB+AAxYRsvfdAANJGlzSW5zdGFuY2VPZnNxAH4ADIkohIh0AAlub3RpZnlBbGxzcQB+AAygRBM2dAALcm9vdFByb2plY3RzcQB+AAzIxncudAAMaXNJbnN0YW5jZU9mc3EAfgAM496UInQAB015QnVpbGRzcQB+AAwwp3yldAACPT1zcQB+AAwijojFdAAFY2xvbmVzcQB+AAykGUnJdAAMcHJvalNldHRpbmdzc3EAfgAMryZg0nQACHRvU3RyaW5nc3EAfgAMd/pJWHQAG2NvbmZsaWN0Um9idXN0TWVyZ2VTdHJhdGVneXNxAH4ADMFKmzx0AAIhPXNxAH4ADLUvbhJ0AAhwcm9qZWN0c3NxAH4ADIWBUf50AAhnZXRDbGFzc3NxAH4ADPsaTMd0AAJuZXNxAH4ADGULrxJ0AAJlcXNxAH4ADLzvYYZ0AAhzZXR0aW5nc3NxAH4ADN1lHQl0AAIjI3NxAH4ADFrtgql0AAhmaW5hbGl6ZXNxAH4ADBwj2CV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ALXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AagFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBxc3EAfgBqAXVxAH4ATgAAAABwc3EAfgBqAXVxAH4ATgAAAABwc3EAfgBqAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcHQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AinNxAH4AfXQABk9iamVjdHNxAH4AgXNxAH4AhHVxAH4AhwAAAANzcQB+AIl0AARqYXZhc3EAfgCJdAAEbGFuZ3EAfgCOc3EAfgB9dAADQW55c3EAfgCBc3EAfgCEdXEAfgCHAAAAAnNxAH4AiXQABXNjYWxhcQB+AI5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbfqZ74XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGYvaG9tZS9qa3JhdW5lbGlzL2RldmVsb3BtZW50L3Byb2plY3RzL3NjaG9vbC9iaWdkYXRhL1RpbWluZy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSinYXW3kRya54IdDbIPcrS7hIbNQ==
+external apis:
+0 items
+source infos:
+1 items
+/home/jkraunelis/development/projects/school/bigdata/Timing/project/Build.scala -> 
+AAAAAAAAAAEAAAEAAAAOAEcgIGRlZiBwcm9qU2V0dGluZ3MgOiBTZXFbU2V0dGluZ1tfXV0gPSBEZWZhdWx0cy5kZWZhdWx0U2V0dGluZ3MgKysgU2VxKAEAAAG+AQAAADABADAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAE8vaG9tZS9qa3JhdW5lbGlzL2RldmVsb3BtZW50L3Byb2plY3RzL3NjaG9vbC9iaWdkYXRhL1RpbWluZy9wcm9qZWN0L0J1aWxkLnNjYWxhAQBPL2hvbWUvamtyYXVuZWxpcy9kZXZlbG9wbWVudC9wcm9qZWN0cy9zY2hvb2wvYmlnZGF0YS9UaW1pbmcvcHJvamVjdC9CdWlsZC5zY2FsYQCIdmFsdWUgZGVmYXVsdFNldHRpbmdzIGluIG9iamVjdCBEZWZhdWx0cyBpcyBkZXByZWNhdGVkOiBEZWZhdWx0IHNldHRpbmdzIHNwbGl0IGludG8gY29yZURlZmF1bHRTZXR0aW5ncyBhbmQgSXZ5TW9kdWxlL0p2bU1vZHVsZSBwbHVnaW5zLgE=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW36bvO11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZi9ob21lL2prcmF1bmVsaXMvZGV2ZWxvcG1lbnQvcHJvamVjdHMvc2Nob29sL2JpZ2RhdGEvVGltaW5nL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW36idHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZi9ob21lL2prcmF1bmVsaXMvZGV2ZWxvcG1lbnQvcHJvamVjdHMvc2Nob29sL2JpZ2RhdGEvVGltaW5nL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW36me+F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZi9ob21lL2prcmF1bmVsaXMvZGV2ZWxvcG1lbnQvcHJvamVjdHMvc2Nob29sL2JpZ2RhdGEvVGltaW5nL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
